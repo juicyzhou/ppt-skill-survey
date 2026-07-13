@@ -1,4 +1,4 @@
-# PPT 制作 Skill 综述
+# AI Agent PPT 制作：Skills、工具与工程实践
 
 > 面向 AI Agent、Codex、Claude Code 与演示文稿自动化开发者的选型、上手和工程实践指南。
 
